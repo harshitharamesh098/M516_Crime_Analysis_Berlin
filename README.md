@@ -2,24 +2,6 @@
 
 This project presents a comprehensive crime data analysis and predictive modelling study based on publicly available data from Berlin between the years 2012 and 2019. The goal is to explore patterns, visualise trends, and build predictive models to forecast violent crime occurrences using engineered features from the dataset.
 
-## 📁 Project Structure
-
-
-Harshita - M516/
-
-├── data/ # Raw and processed datasets
-
-├── model/ # Trained machine learning models
-
-├── screenshots/ # Key result visualisations
-
-├── berlin_crime_trends_2012_2019.ipynb # Main Jupyter Notebook
-
-├── Harshita - M516.docx # Final Report
-
-├── README.md # This documentation file
-
-
 
 
 ## 📊 Dataset
