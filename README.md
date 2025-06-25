@@ -6,11 +6,17 @@ This project presents a comprehensive crime data analysis and predictive modelli
 
 
 Harshita - M516/
+
 ├── data/ # Raw and processed datasets
+
 ├── model/ # Trained machine learning models
+
 ├── screenshots/ # Key result visualisations
+
 ├── berlin_crime_trends_2012_2019.ipynb # Main Jupyter Notebook
+
 ├── Harshita - M516.docx # Final Report
+
 ├── README.md # This documentation file
 
 
