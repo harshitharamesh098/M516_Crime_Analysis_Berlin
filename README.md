@@ -53,9 +53,7 @@ This project presents a comprehensive crime data analysis and predictive modelli
 ## 📁 Deliverables
 
 - ✅ `.ipynb`: Notebook with full pipeline
-- ✅ `.docx`: Word report (3000 words)
-- ✅ `.pkl`: Trained model
-- ✅ Visual exports for documentation
+
 
 ## 📝 Citation
 
